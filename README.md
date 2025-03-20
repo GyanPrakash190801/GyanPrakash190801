@@ -7,26 +7,21 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">  
-    <a href="https://www.youtube.com/@CodingWithDhiraj" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
  </a> 
- <a href="https://www.linkedin.com/in/dhirajkumar02/" target="_blank">
+ <a href="https://www.linkedin.com/in/gyan-prakash-60a6bb22a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="https://github.com/Dhirajkumar02" target="_blank">
+ <a href="https://github.com/GyanPrakash190801" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
  </a>
- <a href="https://x.com/Dhiraj_kumar_02" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
- </a>
- <a href="https://www.instagram.com/er.dhirajkumargupta/" target="_blank">
+ <a href="https://www.instagram.com/_ig_gyan_1908/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 <!--  </a> 
     <a href="" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a> -->
-   <a href="mailto:dhirajkumarsaah@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Dhiraj Kumar" />
+   <a href="mailto:gyanprakash190801@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gyan Prakash" />
  </a> 
 </p>
 
@@ -36,15 +31,13 @@
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder <b>[**Coding With Dhiraj**](https://www.linkedin.com/in/dhirajkumar02/)</b>
-- 📘 I’m Currently Studying **Devops**
-  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
+- 📘 I’m Currently Preparing **Java FullStack Development**
+  <!-- - 📘 I’m Currently learning **Advance java, SpringBoot, Hibernate and Many More** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📔 Live [**MyResume**](https://dhirajkumar02.github.io/My-Portfolio/)
-- 🔭 I’m currently working on **Banking Application & E-Commerece Website Using Spring Boot**
+- 🔭 I’m currently working on **E-Commerece Website Using All necessary Skills**
   <!-- - 🌱 I’m currently learning **Spring Boot and React** -->
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
-- 📫 How to reach me **dhirajkumarsaah@gmail.com**
+- 📫 How to reach me **gyanprakash190801@gmail.com**
 
 ---
 
@@ -77,24 +70,22 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhirajkumar02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GyanPrakash190801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhirajkumar02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GyanPrakash190801&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ## 📧 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/gyan-prakash-60a6bb22a/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_ig_gyan_1908/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Dhirajkumar02">
+    <img src="https://komarev.com/ghpvc/?username=GyanPrakash190801">
 </a>
-<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkuma02?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/GyanPrakash190801?label=Followers&style=social" alt="GitHub Badge"></a>
