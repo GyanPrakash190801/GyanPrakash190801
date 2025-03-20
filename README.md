@@ -38,7 +38,7 @@
 
 ---
 
-## ❤️ I'm Code on (JSE,JEE,REACT,DATABASE,HIBERNATE,SERVLATE)
+## ❤️ I'm Code on (JSE,JEE,REACT,DATABASE,HIBERNATE,SERVLET,SPRINGBOOT)
 
 <p align="left"> 
 <img src="lc.png" height="40px" width="40px">
