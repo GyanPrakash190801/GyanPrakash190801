@@ -1,6 +1,3 @@
-<p align="left"> 
-<img src="Banner.jpg" height="" width="">
-</p>
 <h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>
 <p align="center"><b>Java Full Stack Developer at JSpiders - Training & Development Center with expertise in Java Programming || JDBC || Hibernate || Servlet || JSP || Spring Framework || Oracle SQL || HTML5 || CSS || JavaScript || Bootstrap || ReactJS || DSA || Problem Solving</b></p>
@@ -41,7 +38,7 @@
 
 ---
 
-## ❤️ I'm Code on (DSA)
+## ❤️ I'm Code on (JSE,JEE,REACT,DATABASE,HIBERNATE,SERVLATE)
 
 <p align="left"> 
 <img src="lc.png" height="40px" width="40px">
